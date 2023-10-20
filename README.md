@@ -17,12 +17,14 @@
 3. Save the file
 4. Run Docker Compose
 
-```bash
-docker compose up -d
-```
+   ```bash
+   docker compose up -d
+   ```
 
 5. Access **Grafana** through http://localhost:3000
+   ![Grafana](./grafana-dashboard-english.png)
 6. Access **pgAdmin** through http://localhost:5050
+   ![pgAdmin](./pgAdmin.png)
 
 ## 🖊️ Notes
 
